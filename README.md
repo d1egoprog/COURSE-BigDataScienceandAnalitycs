@@ -1,6 +1,17 @@
-## Big Data and Data Science Course
+# Big Data and Data Science Course
 
-#### Slides
+This repository has all the related support, class, examples material for My DBig Data Science Course
+
+## Workshp Summary
+
+* extraction-quijote - Visual Basic 6.0, Python, JAVA - Web Page Data Extraction 
+* data-ppmimages - C++ - PPM Images Data Extraction and Basic Analysis and Editing
+* nosql-mongo-stress-test - JAVA, MongDB - MongoDB Connection Test, Writing and Stress Test
+
+## Resource Summary 
+
+
+## Slides Summary
 
 0. Información - General Subject Information
 1. Introduccion - e-science, General concepts of Big Data Science
@@ -12,4 +23,6 @@
 7. Finite Graph for Text Sintax analysis.
 8. Visualization Taxonomy
 
-
+## Author
+* Name: Diego Alberto Rincón Yáñez MSc.
+* Country: Colombia
