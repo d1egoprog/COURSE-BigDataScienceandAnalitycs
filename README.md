@@ -1,6 +1,6 @@
 # Big Data and Data Science Course
 
-This repository has all the related support, class, examples material for My DBig Data Science Course
+This repository has all the related support, class, examples material for My Big Data Science Course
 
 ## Workshp Summary
 
@@ -10,6 +10,7 @@ This repository has all the related support, class, examples material for My DBi
 
 ## Resource Summary 
 
+* 
 
 ## Slides Summary
 
