@@ -19,7 +19,7 @@ public class MongoThread extends Thread{
 		System.out.println("Hilo "+id + " Activado!");
 		Random rn = new Random();
 		try{
-				MongoClient conexion = new MongoClient("65.167.61.242", 27017);
+				MongoClient conexion = new MongoClient("localhost", 27017);
 				MongoDatabase base = conexion.getDatabase("pruebaStress");
 				MongoCollection collection = base.getCollection("muchos");
 				
