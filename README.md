@@ -8,10 +8,6 @@ This repository has all the related support, class, examples material for My Big
 * data-ppmimages - C++ - PPM Images Data Extraction and Basic Analysis and Editing
 * nosql-mongo-stress-test - JAVA, MongDB - MongoDB Connection Test, Writing and Stress Test
 
-## Resource Summary 
-
-* 
-
 ## Slides Summary
 
 0. Información - General Subject Information
@@ -25,5 +21,6 @@ This repository has all the related support, class, examples material for My Big
 8. Visualization Taxonomy
 
 ## Author
+
 * Name: Diego Alberto Rincón Yáñez MSc.
 * Country: Colombia
