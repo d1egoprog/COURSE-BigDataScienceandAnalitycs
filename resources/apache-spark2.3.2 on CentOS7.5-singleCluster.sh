@@ -45,7 +45,7 @@ jps
 # –master: IP o URL de su cluster
 # –executor-memory: Cantidad de Memoria para el trabajo
 # –total-executor-cores: Numero de CPU's disponibles para el trabajo
-spark-submit --class org.apache.spark.examples.SparkPi --master spark://192.168.2.135:7077 --executor-memory 1G --total-executor-cores 1 /opt/spark-2.3.2-bin-hadoop2.7/examples/jars/spark-examples_2.11-2.3.2.jar 10
+spark-submit SparkPi --master spark://192.168.111.3:7077 --executor-memory 1G --total-executor-cores 1 /opt/spark-2.3.2-bin-hadoop2.7/examples/jars/spark-examples_2.11-2.3.2.jar 10
 
 #Acceso a la consola de Spark
 spark-shell spark://192.168.2.135:7077
