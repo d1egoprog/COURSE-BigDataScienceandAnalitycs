@@ -24,3 +24,4 @@ This repository has all the related support, class, examples material for My Big
 
 * Name: Diego Alberto Rincón Yáñez MSc.
 * Country: Colombia
+* License: MIT 
