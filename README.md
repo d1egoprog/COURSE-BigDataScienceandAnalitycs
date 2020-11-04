@@ -2,13 +2,13 @@
 
 This repository has all the related examples material for My Big Data Science Courses
 
-## Workshp Summary
+## Datasets Summary
 
 * CSV - Comma Separated Value
-* DSV - Delimiter Separated Value
+* DSV - Delimiter Separated Value - UTF8 Encoding
 * XML - Extensible Markup Language
-* JSON - JavaScript Object Notation
-* JSON - JavaScript Object Notation - WRadioColombia
+* JSON - JavaScript Object Notation 
+* JSON - JavaScript Object Notation - WRadioColombia (tweets types)
 * PPM - 1024x1024 Satellite Colombia Gray Scale
 * PPM - 30000x15000 Satellite World Gray Scale
 * JSON - Some of Colombia Press Media
