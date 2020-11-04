@@ -17,7 +17,7 @@ public class StressTest3ManyParalell extends Thread {
 	}
 
 	public static void main(String args[]) {
-		new StressTest3ManyParalell(2);
+		new StressTest3ManyParalell(10);
 	}
 	
 }
