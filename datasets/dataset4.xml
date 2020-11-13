@@ -1,8 +1,14 @@
 <?xml version="1.0" encode="ISO-8859-1"?>
 <agenda> 
-<contacto> 
-	<nombre>Diego Rincón</nombre>
-	<telefono>645552388</telefono> 
-	<email>diego@gmail.com</email>
-</contacto> 
+	<contacto> 
+		<nombre>Diego Rincón</nombre>
+		<telefono>645552388</telefono> 
+		<email>diego@gmail.com</email>
+	</contacto> 
+	<contacto> 
+		<nombre>Diego Rincón</nombre>
+		<telefono tipo="fijo" ubicacion="palmira">645552388</telefono> 
+		<telefono tipo="trabajo">34567890</telefono> 
+		<email>diego@gmail.com</email>
+	</contacto> 
 </agenda>

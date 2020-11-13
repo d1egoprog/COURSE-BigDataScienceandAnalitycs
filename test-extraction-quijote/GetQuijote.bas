@@ -33,6 +33,6 @@ For i = 0 To 35
 Range("A1:A38").EntireRow.Delete
 uf = Cells(1048576, 1).End(xlUp).row
 Cells(uf, 1).Delete
-'ActiveWorkbook.SaveAs Filename:="C:\temp\Capitulo" + q + ".txt", _FileFormat:=xlText, CreateBackup:=False
+'ActiveWorkbook.SaveAs Filename:="C:\temp\icetex\Capitulo" + q + ".txt", _FileFormat:=xlText, CreateBackup:=False
 Next i
 End Sub
